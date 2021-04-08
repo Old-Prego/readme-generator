@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This code will help to generate its own READMEs based on a templated system",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(This is working!)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Old-Prego/readme-generator.git"
+  },
+  "author": "Luke Perrine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Old-Prego/readme-generator/issues"
+  },
+  "homepage": "https://github.com/Old-Prego/readme-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0"
+  }
+}
